@@ -1,0 +1,54 @@
+Ngoc Duong Huynh
+Profile Projects Experience Contact
+// product growth & data analytics
+
+Ngoc Duong Huynh
+I turn transactional and behavioral data into product decisions — currently building BNPL and credit products at Sea Group (ShopeePay), on my way to a Master's in Data Analytics.
+
++30% TPV in 2mo $2–3M CRM budget owned 1.7x volume growth 8x portfolio scale
+01 Profile
+I'm a Product Growth Associate at Sea Group, where I own CRM budget allocation and segmentation strategy for ShopeePay's BNPL product (SPaylater) and lead the roadmap for a new seller cash-loan product. Before this, I ran growth analytics at Home Credit Vietnam and did SAP-focused process analysis at ABeam Consulting. My background is business strategy, but the work itself keeps pulling me toward the data underneath it — segmentation, cohort behavior, churn drivers — which is why I'm applying to Master's programs in Data Analytics and building out the technical skill set below.
+
+Toolkit
+Python pandas, scikit-learn
+SQL
+Power BI DAX, dashboards
+Excel pivot, modeling
+RFM & K-Means clustering
+Cohort & funnel analysis
+Churn / retention modeling
+02 Projects
+K-Means, k=TBD
+Customer Segmentation — RFM & K-Means Clustering
+Independent project · Python (pandas, scikit-learn) · e-commerce transaction data (Kaggle)
+
+Built an end-to-end pipeline engineering Recency-Frequency-Monetary features from raw transaction logs, then applied K-Means clustering to surface distinct customer segments. The segmentation logic mirrors the CRM treatment design I use at Sea Group — this project is where I go to test and sharpen that thinking in code.
+
+Code on GitHub → (replace with your repo link)
+next up
+Add your next project here
+Duplicate this card for each new analysis — a SQL deep-dive, a churn model, an A/B test writeup.
+
+Keep the same shape: one line on the method and tools, one line on what you found, and a link to the code or a short writeup. Two or three strong projects beat ten thin ones.
+
+03 Experience
+May 2026 —
+Present
+Product Growth Associate · Sea Group (ShopeePay)
+Own SPaylater's $2–3M/month CRM budget and segmentation-driven treatment design; lead roadmap for a new e-commerce seller cash-loan product.
+
+Aug 2024 —
+Apr 2026
+Strategic Growth Specialist · Home Credit Vietnam
+Built a diagnostic retention framework from credit and behavioral data; led go-to-market analytics that scaled a MoMo product line 8x in 12 months.
+
+Apr 2024 —
+Jul 2024
+Tech Consultant Trainee, SAP Track · ABeam Consulting
+Mapped legacy data flows to SAP best-practice models across two manufacturing clients.
+
+04 Contact
+Based in Ho Chi Minh City, Vietnam — open to conversations about data analytics, product growth, or Master's programs.
+
+duonghuynhngoc307@gmail.com LinkedIn ↗ GitHub ↗
+built with html, css, and a k-means notebook
